@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mateusz Gawłowicz</h1>
-<h3 align="center">Frontend Developer | Next React Strapi</h3>
+<h1>Hi 👋, I'm Mateusz Gawłowicz</h1>
+<h3>Frontend Developer | Next React Strapi</h3>
 
 - 🌱 I’m currently learning **Next and React**
 
