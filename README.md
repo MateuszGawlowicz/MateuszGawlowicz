@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1>Hi 👋, I'm Mateusz Gawłowicz</h1>
 <h3>Frontend Developer | Next React Strapi</h3>
 
